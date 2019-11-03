@@ -3,6 +3,8 @@ body
 {
 	margin:0px;
 	padding-top:5px;
+	font : roboto;
+
 }
 
 #main_container
@@ -135,4 +137,21 @@ float: left;
 margin-left: 3%;
 font-size: 0.8em;
 color: rgb(126, 126, 126);
+}
+.Titulo_1
+{
+	text-align: center;
+	    border-style: dotted;
+    width: 60%;
+    /*border-radius: 15px;*/
+    color: orange;
+font-family: cursive;
+
+
+}
+.Parrafo_1
+{
+	text-align: justify;
+	font-family: monospace;
+	font-size: 2em;
 }
